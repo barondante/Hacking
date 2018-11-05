@@ -1,0 +1,21 @@
+Port number for IRC: 6667 (sometimes 6668, 6669)
+
+IRCs have a bunch of channels - choose the one you want to join
+
+Register your nickname first
+
+/msg NickServ REGISTER <password> <email address>
+
+Identify yourself every time you join a channel
+
+/msg NickServ IDENTIFY <password>
+
+CAREFUL WITH THE ABOVE!!!
+
+To join Offensive Security:
+
+/join #offsec
+
+To PM (private message/IM) someone:
+
+/msg <nickname> <message>
